@@ -44,8 +44,6 @@ The attributes of this data set include:
 3. Coupon attributes
     - time before it expires: 2 hours or one day
 
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
-
 ## Observation
 
 - Carryout and Take Away and Restaurant(<20) coupons get used the most while Bar coupons get used the least.
