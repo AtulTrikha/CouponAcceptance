@@ -59,26 +59,26 @@ The attributes of this data set include:
 
 ### Additional Plots
 
-Using a bar plot to visualize the coupon column:
-![Problem 1 Visualization](https://github.com/AtulTrikha/CouponAcceptance/blob/main/images/Visualize_Coupon_Using_Barplot.png "Problem 1 Visualization")
+**Using a bar plot to visualize the coupon column:**\
+![Problem 1 Visualization](https://github.com/AtulTrikha/CouponAcceptance/blob/main/images/Visualize_Coupon_Using_Barplot.png "Problem 1 Visualization")\
 
-Using a histogram to visualize the temperature column:
-![Problem 2 Visualization](https://github.com/AtulTrikha/CouponAcceptance/blob/main/images/Visualize_Temprature_Using_Histogram.png "Problem 2 Visualization")
+**Using a histogram to visualize the temperature column:**\
+![Problem 2 Visualization](https://github.com/AtulTrikha/CouponAcceptance/blob/main/images/Visualize_Temprature_Using_Histogram.png "Problem 2 Visualization")\
 
- Acceptance rate between those who went to a bar 3 or fewer times a month to those who went more:
-![Acceptance Rate Problem 3](https://github.com/AtulTrikha/CouponAcceptance/blob/main/images/Visualizing_Bar_Coupon_Acceptance_3_or_Fewer_or_More_Than_3.png "Acceptance Rate Problem 3")
+ **Acceptance rate between those who went to a bar 3 or fewer times a month to those who went more:**\
+![Acceptance Rate Problem 3](https://github.com/AtulTrikha/CouponAcceptance/blob/main/images/Visualizing_Bar_Coupon_Acceptance_3_or_Fewer_or_More_Than_3.png "Acceptance Rate Problem 3")\
 
-Acceptance rate between drivers who go to a bar more than once a month and are over the age of 25 to the all others. :
-![Acceptance Rate Problem 4](https://github.com/AtulTrikha/CouponAcceptance/blob/main/images/Visualizing_Bar_Coupon_Acceptance_Visited_Bar_More_Than_Once_Over_25.png "Acceptance Rate Problem 4")
+**Acceptance rate between drivers who go to a bar more than once a month and are over the age of 25 to the all others:**\
+![Acceptance Rate Problem 4](https://github.com/AtulTrikha/CouponAcceptance/blob/main/images/Visualizing_Bar_Coupon_Acceptance_Visited_Bar_More_Than_Once_Over_25.png "Acceptance Rate Problem 4")\
 
-Acceptance rate between drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry.
-![Acceptance Rate Problem 5](https://github.com/AtulTrikha/CouponAcceptance/blob/main/images/Visualizing_Bar_Coupon_Acceptance_Once_A_Month_Not_Farming_Fishing_Forestry_No_Kid_Passengers.png "Acceptance Rate Problem 5")
+**Acceptance rate between drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry**\
+![Acceptance Rate Problem 5](https://github.com/AtulTrikha/CouponAcceptance/blob/main/images/Visualizing_Bar_Coupon_Acceptance_Once_A_Month_Not_Farming_Fishing_Forestry_No_Kid_Passengers.png "Acceptance Rate Problem 5")\
 
-Compare the acceptance rates between those drivers who:
+**Compare the acceptance rates between those drivers who**\
  - go to bars more than once a month, had passengers that were not a kid, and were not widowed OR
  - go to bars more than once a month and are under the age of 30 OR
  - go to cheap restaurants more than 4 times a month and income is less than 50K.
-![Acceptance Rate Problem 6](https://github.com/AtulTrikha/CouponAcceptance/blob/main/images/Visualizing_Bar_Coupon_Acceptance_Based_On_Criteria_6.png "Acceptance Rate Problem 6")
+![Acceptance Rate Problem 6](https://github.com/AtulTrikha/CouponAcceptance/blob/main/images/Visualizing_Bar_Coupon_Acceptance_Based_On_Criteria_6.png "Acceptance Rate Problem 6")\
 
 ## Link
 
