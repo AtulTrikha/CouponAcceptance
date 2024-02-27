@@ -55,6 +55,8 @@ The attributes of this data set include:
     - frequent cheap resturants more than 4 times a month and earn less than 50K
 - Overall, there seems to be strong correlation between the number of times you visit a bar and your likelihood of accepting a bar coupon
 
+![Coupon Acceptance Bar Plot Image](https://github.com/AtulTrikha/CouponAcceptance/blob/main/images/coupon_acceptance.png "Coupon Acceptance Bar Plot")
+
 ## Link
 
 - Data: https://github.com/AtulTrikha/CouponAcceptance/blob/main/data/coupons.csv
